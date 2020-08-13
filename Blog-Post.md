@@ -4,7 +4,7 @@
 
 ![One of our founding members](https://img.huffingtonpost.com/asset/5bb49916220000ba01dc2840.jpeg?ops=scalefit_720_noupscale)
 
-###Fight club was started to create a safe place for like-minded individuals to releive the stresses of their everyday lives by beating eachother up.
+### Fight club was started to create a safe place for like-minded individuals to releive the stresses of their everyday lives by beating eachother up.
 
 Fight Club is an exlusive group and we'd like to keep it that way. We have 8 rules which we all must _strictly abide by_ in order to keep our organization safe and free.
 
