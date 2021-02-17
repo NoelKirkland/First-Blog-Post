@@ -1,6 +1,4 @@
-![Hero image - Fight Club](https://previews.123rf.com/images/olenaboldyreva/olenaboldyreva1806/olenaboldyreva180600065/103435148-two-clenched-fists-bumping-together.jpg)
-
-# Fight Club Rules And Best Practices
+# Fight Club
 
 ![One of our founding members](https://img.huffingtonpost.com/asset/5bb49916220000ba01dc2840.jpeg?ops=scalefit_720_noupscale)
 
