@@ -2,7 +2,7 @@
 
 #### By _**Noel R. Kirkland**_
 
-This is a blog post about Fight Club. It was a homework assignment from Epicodus and one of the first projects I ever did. It is a simple webpage. No HTML. An exploration of Markdown.
+This is a blog post about Fight Club. It was a homework assignment from Epicodus and one of the first projects I ever did. It is a simple webpage. No HTML. It is an exploration of Markdown.
 
 ## Setup/Installation Requirements
 
